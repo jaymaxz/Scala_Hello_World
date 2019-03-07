@@ -1408,187 +1408,27 @@
 [0m[[0m[0mdebug[0m] [0m[0mignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator[0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#machinist_2.12;0.6.5!machinist_2.12.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-core_2.12;1.4.0!cats-core_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-kernel_2.12;1.4.0!cats-kernel_2.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-macros_2.12;1.4.0!cats-macros_2.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /home/jagath/.ivy2[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (34ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (37ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (34ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (35ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (35ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (39ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (41ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (40ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/home/jagath/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (39ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0msettings loaded (36ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default cache: /home/jagath/.ivy2/cache[0m
-[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
-[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
-[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
-[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 245ms :: artifacts dl 50ms[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 compile produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-compile.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 runtime produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-runtime.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 test produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-test.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 provided produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-provided.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 optional produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-optional.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 compile-internal produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-compile-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 runtime-internal produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-runtime-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 test-internal produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-test-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 plugin produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-plugin.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 pom produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-pom.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 scala-tool produced in /home/jagath/Documents/hello-world-template/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (245ms resolve - 50ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#machinist_2.12;0.6.5!machinist_2.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 71ms :: artifacts dl 2ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 compile produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-compile.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 runtime produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-runtime.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 test produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 provided produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-provided.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 optional produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-optional.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 compile-internal produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-compile-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 runtime-internal produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-runtime-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 test-internal produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-test-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 plugin produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-plugin.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 pom produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-pom.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for ch.epfl.scala#hello-world_2.12;1.0 scala-tool produced in /home/jagath/Documents/Scala_Hello_World/target/scala-2.12/resolution-cache/reports/ch.epfl.scala-hello-world_2.12-scala-tool.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (71ms resolve - 2ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m
